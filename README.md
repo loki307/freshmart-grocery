@@ -38,3 +38,22 @@ http://freshmart-frontend-2024.s3-website.ap-south-1.amazonaws.com
 
 ### RDS
 ![RDS](screenshots/rds.png)
+## Project Screenshots
+
+### Live Website
+![Website](website.png)
+
+### VPC Setup
+![VPC](vpc.png)
+
+### EC2 Instance
+![EC2](ec2.png)
+
+### RDS Database
+![RDS](rds.png)
+
+### S3 Bucket
+![S3](s3.png)
+
+### CloudWatch
+![CloudWatch](cloudwatch.png)
