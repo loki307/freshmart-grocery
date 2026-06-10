@@ -25,3 +25,16 @@
 
 ## Live URL
 http://freshmart-frontend-2024.s3-website.ap-south-1.amazonaws.com
+## Screenshots
+
+### Website
+![Website](screenshots/website.png)
+
+### Architecture
+![VPC](screenshots/vpc.png)
+
+### EC2
+![EC2](screenshots/ec2.png)
+
+### RDS
+![RDS](screenshots/rds.png)
